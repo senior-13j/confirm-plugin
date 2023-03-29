@@ -1,0 +1,8 @@
+{
+   "private": true,
+   "name": "confirm-plugin",
+   "workspaces": ["packages/*"],
+   "scripts": {
+    "confirm-dev": "yarn workspace confirm dev"
+   }
+}
